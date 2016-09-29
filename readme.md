@@ -5,6 +5,8 @@ Aplikasi web ini awalnya di bangun untuk membantu para relawan memberikan inform
 
 Aplikasi ini di bangun pertama kali oleh para [Relawan TIK](http://komtik-garut.blogspot.co.id) - [Perhimpunan Pengembang Platform TIK Garut](https://www.facebook.com/groups/petik.komtik.garut) daerah ***Garut***. Karena keterbatasan waktu para relawan yang mempunyai kemampuan web programming, maka awal belum semua fasilitas terimplementasi. Di bawah adalah screenshot tampilan dari fasilitas yang telah tersedia.
 
+Di dukung dan system requirement di rancang oleh [Rinda Cahyana](http://rindacahyana.sttgarut.ac.id/).
+
 ## Screenshots
 - Halaman depan : [Foto 1](https://github.com/feelinc/sikobe/blob/master/SCREENSHOTS/homepage-1.jpg)
 - Mengelola Area Terdampak : [Foto 1](https://github.com/feelinc/sikobe/blob/master/SCREENSHOTS/area-management-1.jpg) [Foto 2](https://github.com/feelinc/sikobe/blob/master/SCREENSHOTS/area-management-2.jpg) [Foto 3](https://github.com/feelinc/sikobe/blob/master/SCREENSHOTS/area-management-3.jpg) 
