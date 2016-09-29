@@ -41,6 +41,7 @@ Aplikasi ini di bangun pertama kali oleh para [Relawan TIK](http://komtik-garut.
    - JWT_KEY : isi dengan random string
    - POSKO_PUSAT_LATITUDE : contoh -7.2066635
    - POSKO_PUSAT_LONGITUDE : contoh 107.8261692
+   - GOOGLE_ANALYTIC_UA : contoh UA-84943613-1
    - GOOGLE_API_KEY: buat sebuah api key di [Google Developer website](https://developers.google.com/maps/documentation/javascript/)
    - dan semua informasi koneksi ke database
 
